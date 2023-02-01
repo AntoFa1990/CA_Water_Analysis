@@ -24,6 +24,21 @@ Data was sourced from the publically available CA Open Data repositories, which 
 
 # Findings
 
+This water quality analysis revealed the complexities in dealing with environmental data.  The raw data show that long-term monitoring data quality depends on factors like sample collection methodology, time of sampling, availability of access to sites, and funding play a role in the quality and length of various data sets across sites.  Because of this, the CA water quality data needed to be transformed into common units of measurement, outliers needed to be identified, and sampling dates needed to be converted into the “datetime” format that Pandas can understand. Once cleaned, the following conclusions could be drawn from the data. 
+
+- Plotting raw station data show higher and more frequent peaks of Arsenic in water before the mid-1980’s. Factors that could have contributed to the decrease after 1990 include federal environmental regulation as well as higher fidelity instruments used in the sampling, and among others.
+
+- Arsenic and Mercury levels regularly violate the legal threshold (10 ppb and 2 ppb, respectively).
+
+- There is a prioritization of surface water sampling over ground water sampling.
+
+- There doesn’t appear to be a difference in Arsenic trends based on Northern vs Southern Californian counties (LA & San Diego vs. Alameda and Sacramento).
+
+- LA county exhibits the highest levels and frequency of Mercury spikes, most notably in the pre-1980s era.
+
+- Nitrate levels frequently surpass the legal limit (10 mg/L) largely due to farm runoff in CA. 
+
+
 # Challenges
 
 # Next Steps
