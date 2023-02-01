@@ -5,7 +5,7 @@ This analysis considers exactly this question, with regard to three main chemica
 
 These are all substances with well established negative health consequences, which can be mitigated through a variety of directed action (regulation of substances or industries, changed practices, cleaning plants, etc.). Arsenic, for instance, has a variety of bad effects in drinking water at levels as low as 30 micrograms per milliliter (a.k.a "parts per billion" or ppb). According to the World Health Organization, exposure to high levels of arsenic in drinking water can lead to skin lesions, a variety of cancers, cardiovascular disease, and diabetes. For pregnant mothers, exposure to arsenic in water can also impact their children’s cognitive development and can lead to premature death.  Mercury, meanwhile, affects the human population mainly through the consumption of fish who have accumulated levels from a polluted environment, at levels even, lower, just 2ppb.
 
-For our research, we current legal limits of all three chemicals for our benchmarks:
+For our research, we used the current legal limits of all three chemicals to benchmark violations:
 
 - Arsenic: 10 ppb
 - Mercury: 2 ppb
