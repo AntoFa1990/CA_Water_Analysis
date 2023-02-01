@@ -3,9 +3,13 @@ The stability of a safe and clean water supply, both as a source of drinking wat
 
 This analysis considers exactly this question, with regard to three main chemicals,: Mercury, Arsenic and Nitrate.
 
-These are all substances with well established negative health consequences, which can be mitigated through a variety of directed action (regulation of substances or industries, changed practices, cleaning plants, etc.). Arsenic, for instance, has a variety of bad effects in drinking water at levels as low as 30ppb. According to the World Health Organization, exposure to high levels of arsenic in drinking water can lead to skin lesions, a variety of cancers, cardiovascular disease, and diabetes. For pregnant mothers, exposure to arsenic in water can also impact their children’s cognitive development and can lead to premature death..  
+These are all substances with well established negative health consequences, which can be mitigated through a variety of directed action (regulation of substances or industries, changed practices, cleaning plants, etc.). Arsenic, for instance, has a variety of bad effects in drinking water at levels as low as 30 micrograms per milliliter (a.k.a "parts per billion" or ppb). According to the World Health Organization, exposure to high levels of arsenic in drinking water can lead to skin lesions, a variety of cancers, cardiovascular disease, and diabetes. For pregnant mothers, exposure to arsenic in water can also impact their children’s cognitive development and can lead to premature death.  Mercury, meanwhile, affects the human population mainly through the consumption of fish who have accumulated levels from a polluted environment, at levels even, lower, just 2ppb.
 
-Mercury, meanwhile, affects the human population mainly through the consumption of fish who have accumulated levels from a polluted environment, at levels even, lower, just 2ppb.
+For our research, we current legal limits of all three chemicals for our benchmarks:
+
+- Arsenic: 10 ppb
+- Mercury: 2 ppb
+- Nitrate: 10 mg/L
 
 This group has submitted individual unique Jupyter notebooks for each group member:
 
@@ -32,7 +36,13 @@ There are a number of ways to come at this question, and a number of datasets av
 - What are the recent trends for Nitrate among CA most populated counties?
 
 # Description of Dataset
-Data was sourced from the publically available CA Open Data repositories, which houses a collection of numerous, state collected datasets about essential public infrastructure like water, housing,etc. Through Open Data, he California Department of Water Resources (DWR) offers a number of discrete “grab” water quality datasets, containing DWR-collected, current and historical, chemical and physical parameters found in drinking water, groundwater, and surface waters throughout the state. Specifically, this analysis considered the 4.5 mil. record "Lab Data" subset, which consisted of Lab samples taken from various wells in counties throughout California from 1952 (and sporadically before). Records included information on sample date, parameters tested for, type of sample and locational information.
+Data was sourced from the publically available CA Open Data repositories, which houses a collection of numerous, state collected datasets about essential public infrastructure like water, housing,etc. Through Open Data, the California Department of Water Resources (DWR) offers a number of discrete “grab” water quality datasets, containing DWR-collected, current and historical, chemical and physical parameters found in drinking water, groundwater, and surface waters throughout the state. Specifically, this analysis considered the 4.5 mil. record "Lab Data" subset, which consisted of Lab samples taken from various wells in counties throughout California from 1952 (and sporadically before). Records included information on sample date, parameters tested for, type of sample and locational information.
+
+Lab data downloaded from the CA Department of Water Resources:
+
+- Arsenic: [Ar-Water-Lab-Data.csv](https://github.com/AntoFa1990/CA_Water_Analysis/blob/main/Ar-Water-Lab-Data.csv)
+- Mercury: [Mer-Water-Lab-Data.csv](https://github.com/AntoFa1990/CA_Water_Analysis/blob/main/Mer-Water-Lab-Data.csv)
+- Nitrate: [NO3_Water_Lab_Data.csv](https://github.com/AntoFa1990/CA_Water_Analysis/blob/main/NO3_Water_Lab_Data.csv) 
 
 # Data Processing Pipeline + Software
 
