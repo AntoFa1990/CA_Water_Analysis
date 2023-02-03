@@ -1,5 +1,5 @@
 # Project Overview 
-The stability of a safe and clean water supply, both as a source of drinking water and as a marine environment,  is an important priority for the people of California and their elected officials. Understanding the larger picture of what harmful chemicals are in the water, both in the present moment and over time, is an important foundational step for public health officials in making effective  policy decisions and recommendations on these issues..
+The stability of a safe and clean water supply, both as a source of drinking water and as a marine environment,  is an important priority for the people of California and their elected officials. Understanding the larger picture of what harmful chemicals are in the water, both in the present moment and over time, is an important foundational step for public health officials in making effective  policy decisions and recommendations on these issues...
 
 This analysis considers exactly this question, with regard to three main chemicals,: Mercury, Arsenic and Nitrate.
 
